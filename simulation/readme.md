@@ -7,4 +7,8 @@ You can also analyse the operation cycle by cylce uisng Modelsim or any other si
 
 
 
+Use this website to generate opcodes. https://www.eg.bucknell.edu/~csci320/mips_web/
+
+
+
 
