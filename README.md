@@ -1,4 +1,4 @@
-
+# MIPS 32 CORE WITH HAZARD DETECTION & OPERAND FORWARDING 
  The MIPS 32 CPU core is a five stage pipelined central processing unit based on the MIPS (Microprocessor without Interlocked Pipeline Stages) architecture with Hazard detection and data forwarding unit.MIPS is a Reduced Instruction Set Computer (RISC) architecture that is widely used in embedded systems, networking devices, and other applications.
  
 The term "MIPS 32" refers to a specific version of the MIPS architecture, which is a 32-bit instruction set architecture. It means that the CPU core can process instructions that are 32 bits in length. The MIPS 32 architecture provides a standardized set of instructions and registers that the CPU core can execute.
